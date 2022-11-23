@@ -1,6 +1,6 @@
 # Humans account for cognitive costs when finding shortcuts : An information-theoretic analysis of navigation
  
-![Reward-Control Information trade-off curve and respective paths](./img/Fig4.png)
+![Reward-Control Information trade-off curve and respective paths](imgs/Fig4.png)
 
 This repository is the official implementation of [Humans account for cognitive costs when finding shortcuts: An information-theoretic analysis of navigation](https://www.biorxiv.org/content/10.1101/2022.08.06.503020v1.article-info).
 
